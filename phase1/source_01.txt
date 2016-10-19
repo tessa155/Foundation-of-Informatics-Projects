@@ -1,0 +1,103 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+<a_movie>
+<name>The Lord of the Rings: The Fellowship of the Ring</name>
+<rating>PG</rating>
+<studio>New Line Cinema</studio>
+<genre>Fantasy</genre>
+<actors
+ actor1="Elijah Wood"
+ actor2="Ian McKellen"
+ actor3="Viggo Mortensen"
+ />
+<writer>Frances Walsh</writer>
+<director>Peter Jackson</director>
+<date>2002</date>
+<origin>New Zealand / USA</origin>
+<reviews>
+<a_review reviewer="Washington Post" value="100" />
+<a_review reviewer="Chicago Sun-Times" value="75" />
+<a_review reviewer="The New York Times" value="90" />
+<a_review reviewer="LA Weekly" value="100" />
+<a_review reviewer="Los Angeles Times" value="100" />
+<a_review reviewer="Rolling Stone" value="100" />
+<a_review reviewer="Wall Street Journal" value="100" />
+<a_review reviewer="Entertainment Weekly" value="100" />
+<a_review reviewer="Empire" value="" />
+<a_review reviewer="Variety" value="90" />
+<a_review reviewer="Salon.com" value="100" />
+<a_review reviewer="The Onion (A.V. Club)" value="" />
+<a_review reviewer="TV Guide" value="70" />
+<a_review reviewer="Slate" value="100" />
+</reviews>
+<metascore>92</metascore>
+<worldwide_gross>860700000</worldwide_gross>
+</a_movie>
+<a_movie>
+<name>The Lord of the Rings: The Return of the King</name>
+<rating>PG</rating>
+<studio>New Line Cinema</studio>
+<genre>Action</genre>
+<actors
+ actor1="Elijah Wood"
+ actor2="Sean Astin"
+ actor3="Ian McKellen"
+ />
+<writer>Frances Walsh</writer>
+<director>Peter Jackson</director>
+<date>2004</date>
+<origin>USA / New Zealand</origin>
+<reviews>
+<a_review reviewer="Washington Post" value="90" />
+<a_review reviewer="Chicago Sun-Times" value="88" />
+<a_review reviewer="The New York Times" value="100" />
+<a_review reviewer="LA Weekly" value="100" />
+<a_review reviewer="Los Angeles Times" value="100" />
+<a_review reviewer="Rolling Stone" value="88" />
+<a_review reviewer="Wall Street Journal" value="100" />
+<a_review reviewer="Entertainment Weekly" value="100" />
+<a_review reviewer="Empire" value="100" />
+<a_review reviewer="Variety" value="100" />
+<a_review reviewer="Salon.com" value="90" />
+<a_review reviewer="The Onion (A.V. Club)" value="90" />
+<a_review reviewer="TV Guide" value="70" />
+<a_review reviewer="Slate" value="100" />
+</reviews>
+<metascore>94</metascore>
+<worldwide_gross>1129219252</worldwide_gross>
+</a_movie>
+<a_movie>
+<name>The Lord of the Rings: The Two Towers</name>
+<rating>PG</rating>
+<studio>New Line Cinema</studio>
+<genre>Fantasy</genre>
+<actors
+ actor1="Elijah Wood"
+ actor2="Ian McKellen"
+ actor3="Viggo Mortensen"
+ />
+<writer>Frances Walsh</writer>
+<director>Peter Jackson</director>
+<date>2003</date>
+<origin>USA / New Zealand</origin>
+<reviews>
+<a_review reviewer="Washington Post" value="100" />
+<a_review reviewer="Chicago Sun-Times" value="75" />
+<a_review reviewer="The New York Times" value="90" />
+<a_review reviewer="LA Weekly" value="70" />
+<a_review reviewer="Los Angeles Times" value="70" />
+<a_review reviewer="Rolling Stone" value="75" />
+<a_review reviewer="Wall Street Journal" value="100" />
+<a_review reviewer="Entertainment Weekly" value="75" />
+<a_review reviewer="Empire" value="" />
+<a_review reviewer="Variety" value="90" />
+<a_review reviewer="Salon.com" value="90" />
+<a_review reviewer="The Onion (A.V. Club)" value="100" />
+<a_review reviewer="TV Guide" value="60" />
+<a_review reviewer="Slate" value="70" />
+</reviews>
+<metascore>88</metascore>
+<worldwide_gross>921600000</worldwide_gross>
+</a_movie>
+</movies>

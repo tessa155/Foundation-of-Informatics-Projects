@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE movieList
+[
+<!ELEMENT movieList (movie+)>
+<!ELEMENT movie (title, rating, studio, genre, actors, writer, director, year, origin, scores?, metascore, earnings)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT studio (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT actors (actor+)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT writer (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT origin (#PCDATA)>
+<!ELEMENT scores (score+)>
+<!ELEMENT score (#PCDATA)>
+    <!ATTLIST score src CDATA #REQUIRED>
+<!ELEMENT metascore (#PCDATA)>
+<!ELEMENT earnings (#PCDATA)>
+]>
+
+<movieList>
+<movie>
+<title>The Lord of the Rings: The Fellowship of the Ring</title>
+<rating>PG</rating>
+<studio>New Line Cinema</studio>
+<genre>Fantasy</genre>
+<actors>
+<actor>Elijah Wood</actor>
+<actor>Ian McKellen</actor>
+<actor>Viggo Mortensen</actor>
+</actors>
+<writer>Frances Walsh</writer>
+<director>Peter Jackson</director>
+<year>2002</year>
+<origin>New Zealand / USA</origin>
+<scores>
+<score src="Washington Post">100</score>
+<score src="Chicago Sun-Times">75</score>
+<score src="The New York Times">90</score>
+<score src="LA Weekly">100</score>
+<score src="Los Angeles Times">100</score>
+<score src="Rolling Stone">100</score>
+<score src="Wall Street Journal">100</score>
+<score src="Entertainment Weekly">100</score>
+<score src="Empire" />
+<score src="Variety">90</score>
+<score src="Salon.com">100</score>
+<score src="The Onion (A.V. Club)" />
+<score src="TV Guide">70</score>
+<score src="Slate">100</score>
+</scores>
+<metascore>92</metascore>
+<earnings>860700000</earnings>
+</movie>
+<movie>
+<title>The Lord of the Rings: The Return of the King</title>
+<rating>PG</rating>
+<studio>New Line Cinema</studio>
+<genre>Action</genre>
+<actors>
+<actor>Elijah Wood</actor>
+<actor>Sean Astin</actor>
+<actor>Ian McKellen</actor>
+</actors>
+<writer>Frances Walsh</writer>
+<director>Peter Jackson</director>
+<year>2004</year>
+<origin>USA / New Zealand</origin>
+<scores>
+<score src="Washington Post">90</score>
+<score src="Chicago Sun-Times">88</score>
+<score src="The New York Times">100</score>
+<score src="LA Weekly">100</score>
+<score src="Los Angeles Times">100</score>
+<score src="Rolling Stone">88</score>
+<score src="Wall Street Journal">100</score>
+<score src="Entertainment Weekly">100</score>
+<score src="Empire">100</score>
+<score src="Variety">100</score>
+<score src="Salon.com">90</score>
+<score src="The Onion (A.V. Club)">90</score>
+<score src="TV Guide">70</score>
+<score src="Slate">100</score>
+</scores>
+<metascore>94</metascore>
+<earnings>1129219252</earnings>
+</movie>
+<movie>
+<title>The Lord of the Rings: The Two Towers</title>
+<rating>PG</rating>
+<studio>New Line Cinema</studio>
+<genre>Fantasy</genre>
+<actors>
+<actor>Elijah Wood</actor>
+<actor>Ian McKellen</actor>
+<actor>Viggo Mortensen</actor>
+</actors>
+<writer>Frances Walsh</writer>
+<director>Peter Jackson</director>
+<year>2003</year>
+<origin>USA / New Zealand</origin>
+<scores>
+<score src="Washington Post">100</score>
+<score src="Chicago Sun-Times">75</score>
+<score src="The New York Times">90</score>
+<score src="LA Weekly">70</score>
+<score src="Los Angeles Times">70</score>
+<score src="Rolling Stone">75</score>
+<score src="Wall Street Journal">100</score>
+<score src="Entertainment Weekly">75</score>
+<score src="Empire" />
+<score src="Variety">90</score>
+<score src="Salon.com">90</score>
+<score src="The Onion (A.V. Club)">100</score>
+<score src="TV Guide">60</score>
+<score src="Slate">70</score>
+</scores>
+<metascore>88</metascore>
+<earnings>921600000</earnings>
+</movie>
+<movie>
+<title>Harry Potter and the Chamber of Secrets</title>
+<rating>PG</rating>
+<studio>Warner Bros.</studio>
+<genre>Fantasy</genre>
+<actors>
+<actor>Daniel Radcliffe</actor>
+<actor>Emma Watson</actor>
+<actor>Rupert Grint</actor>
+</actors>
+<writer>Steven Kloves</writer>
+<director>Chris Columbus</director>
+<year>2003</year>
+<origin>USA</origin>
+<scores>
+<score src="Washington Post">30</score>
+<score src="Chicago Sun-Times">100</score>
+<score src="The New York Times">60</score>
+<score src="LA Weekly">70</score>
+<score src="Los Angeles Times">60</score>
+<score src="Rolling Stone" />
+<score src="Wall Street Journal">80</score>
+<score src="Entertainment Weekly">83</score>
+<score src="Empire" />
+<score src="Variety">80</score>
+<score src="Salon.com">50</score>
+<score src="The Onion (A.V. Club)">60</score>
+<score src="TV Guide">70</score>
+<score src="Slate">40</score>
+</scores>
+<metascore>63</metascore>
+<earnings>866300000</earnings>
+</movie>
+<movie>
+<title>Harry Potter and the Goblet of Fire</title>
+<rating>PG</rating>
+<studio>Warner Bros.</studio>
+<genre>Adventure</genre>
+<actors>
+<actor>Daniel Radcliffe</actor>
+<actor>Emma Watson</actor>
+<actor>Rupert Grint</actor>
+</actors>
+<writer>Steven Kloves</writer>
+<director>Mike Newell</director>
+<year>2006</year>
+<origin>UK / USA</origin>
+<scores>
+<score src="Washington Post">80</score>
+<score src="Chicago Sun-Times">88</score>
+<score src="The New York Times">80</score>
+<score src="LA Weekly">60</score>
+<score src="Los Angeles Times">90</score>
+<score src="Rolling Stone">75</score>
+<score src="Wall Street Journal">90</score>
+<score src="Entertainment Weekly">67</score>
+<score src="Empire">60</score>
+<score src="Variety">90</score>
+<score src="Salon.com">90</score>
+<score src="The Onion (A.V. Club)">80</score>
+<score src="TV Guide">75</score>
+<score src="Slate">100</score>
+</scores>
+<metascore>81</metascore>
+<earnings>892194397</earnings>
+</movie>
+<movie>
+<title>Harry Potter and the Order of the Phoenix</title>
+<rating>PG</rating>
+<studio>Warner Bros.</studio>
+<genre>Adventure</genre>
+<actors>
+<actor>Daniel Radcliffe</actor>
+<actor>Rupert Grint</actor>
+<actor>Emma Watson</actor>
+</actors>
+<writer>J.K. Rowling</writer>
+<director>David Yates</director>
+<year>2007</year>
+<origin>UK / USA</origin>
+<scores>
+<score src="Washington Post">80</score>
+<score src="Chicago Sun-Times">63</score>
+<score src="The New York Times">70</score>
+<score src="LA Weekly" />
+<score src="Los Angeles Times">50</score>
+<score src="Rolling Stone">88</score>
+<score src="Wall Street Journal">60</score>
+<score src="Entertainment Weekly">83</score>
+<score src="Empire">80</score>
+<score src="Variety">70</score>
+<score src="Salon.com">70</score>
+<score src="The Onion (A.V. Club)">67</score>
+<score src="TV Guide">63</score>
+<score src="Slate">70</score>
+</scores>
+<metascore>71</metascore>
+<earnings>937000866</earnings>
+</movie>
+<movie>
+<title>Harry Potter and the Prisoner of Azkaban</title>
+<rating>PG</rating>
+<studio>Warner Bros.</studio>
+<genre>Adventure</genre>
+<actors>
+<actor>Daniel Radcliffe</actor>
+<actor>Emma Watson</actor>
+<actor>Rupert Grint</actor>
+</actors>
+<writer>Steven Kloves</writer>
+<director>Alfonso Cuaron</director>
+<year>2004</year>
+<origin>USA</origin>
+<scores>
+<score src="Washington Post">40</score>
+<score src="Chicago Sun-Times">88</score>
+<score src="The New York Times">80</score>
+<score src="LA Weekly">90</score>
+<score src="Los Angeles Times">80</score>
+<score src="Rolling Stone">88</score>
+<score src="Wall Street Journal">90</score>
+<score src="Entertainment Weekly">83</score>
+<score src="Empire">60</score>
+<score src="Variety">70</score>
+<score src="Salon.com">100</score>
+<score src="The Onion (A.V. Club)">70</score>
+<score src="TV Guide">60</score>
+<score src="Slate">80</score>
+</scores>
+<metascore>81</metascore>
+<earnings>789458727</earnings>
+</movie>
+<movie>
+<title>Harry Potter and the Sorcerer's Stone</title>
+<rating>PG</rating>
+<studio>Warner Bros.</studio>
+<genre>Fantasy</genre>
+<actors>
+<actor>Daniel Radcliffe</actor>
+<actor>Rupert Grint</actor>
+<actor>Emma Watson</actor>
+</actors>
+<writer>J.K. Rowling</writer>
+<director>Chris Columbus</director>
+<year>2002</year>
+<origin>UK / USA</origin>
+<scores>
+<score src="Washington Post">50</score>
+<score src="Chicago Sun-Times">100</score>
+<score src="The New York Times">40</score>
+<score src="LA Weekly">40</score>
+<score src="Los Angeles Times">80</score>
+<score src="Rolling Stone">70</score>
+<score src="Wall Street Journal">60</score>
+<score src="Entertainment Weekly">75</score>
+<score src="Empire" />
+<score src="Variety">90</score>
+<score src="Salon.com">60</score>
+<score src="The Onion (A.V. Club)" />
+<score src="TV Guide">70</score>
+<score src="Slate">50</score>
+</scores>
+<metascore>64</metascore>
+<earnings>968657891</earnings>
+</movie>
+</movieList>

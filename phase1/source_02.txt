@@ -1,0 +1,149 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<movie_list>
+<movie>
+<Name>Harry Potter and the Chamber of Secrets</Name>
+<Rating>PG</Rating>
+<Studio>Warner Bros.</Studio>
+<Genre>Fantasy</Genre>
+<Actor1>Daniel Radcliffe</Actor1>
+<Actor2>Emma Watson</Actor2>
+<Actor3>Rupert Grint</Actor3>
+<Writer>Steven Kloves</Writer>
+<Director>Chris Columbus</Director>
+<Year>2003</Year>
+<Origin>USA</Origin>
+<score src="Washington Post">30</score>
+<score src="Chicago Sun-Times">100</score>
+<score src="The New York Times">60</score>
+<score src="LA Weekly">70</score>
+<score src="Los Angeles Times">60</score>
+<score src="Rolling Stone"></score>
+<score src="Wall Street Journal">80</score>
+<score src="Entertainment Weekly">83</score>
+<score src="Empire"></score>
+<score src="Variety">80</score>
+<score src="Salon.com">50</score>
+<score src="The Onion (A.V. Club)">60</score>
+<score src="TV Guide">70</score>
+<score src="Slate">40</score>
+<Metascore>63</Metascore>
+<Worldwide_gross>866300000</Worldwide_gross>
+</movie>
+<movie>
+<Name>Harry Potter and the Goblet of Fire</Name>
+<Rating>PG</Rating>
+<Studio>Warner Bros.</Studio>
+<Genre>Adventure</Genre>
+<Actor1>Daniel Radcliffe</Actor1>
+<Actor2>Emma Watson</Actor2>
+<Actor3>Rupert Grint</Actor3>
+<Writer>Steven Kloves</Writer>
+<Director>Mike Newell</Director>
+<Year>2006</Year>
+<Origin>UK / USA</Origin>
+<score src="Washington Post">80</score>
+<score src="Chicago Sun-Times">88</score>
+<score src="The New York Times">80</score>
+<score src="LA Weekly">60</score>
+<score src="Los Angeles Times">90</score>
+<score src="Rolling Stone">75</score>
+<score src="Wall Street Journal">90</score>
+<score src="Entertainment Weekly">67</score>
+<score src="Empire">60</score>
+<score src="Variety">90</score>
+<score src="Salon.com">90</score>
+<score src="The Onion (A.V. Club)">80</score>
+<score src="TV Guide">75</score>
+<score src="Slate">100</score>
+<Metascore>81</Metascore>
+<Worldwide_gross>892194397</Worldwide_gross>
+</movie>
+<movie>
+<Name>Harry Potter and the Order of the Phoenix</Name>
+<Rating>PG</Rating>
+<Studio>Warner Bros.</Studio>
+<Genre>Adventure</Genre>
+<Actor1>Daniel Radcliffe</Actor1>
+<Actor2>Rupert Grint</Actor2>
+<Actor3>Emma Watson</Actor3>
+<Writer>J.K. Rowling</Writer>
+<Director>David Yates</Director>
+<Year>2007</Year>
+<Origin>UK / USA</Origin>
+<score src="Washington Post">80</score>
+<score src="Chicago Sun-Times">63</score>
+<score src="The New York Times">70</score>
+<score src="LA Weekly"></score>
+<score src="Los Angeles Times">50</score>
+<score src="Rolling Stone">88</score>
+<score src="Wall Street Journal">60</score>
+<score src="Entertainment Weekly">83</score>
+<score src="Empire">80</score>
+<score src="Variety">70</score>
+<score src="Salon.com">70</score>
+<score src="The Onion (A.V. Club)">67</score>
+<score src="TV Guide">63</score>
+<score src="Slate">70</score>
+<Metascore>71</Metascore>
+<Worldwide_gross>937000866</Worldwide_gross>
+</movie>
+<movie>
+<Name>Harry Potter and the Prisoner of Azkaban</Name>
+<Rating>PG</Rating>
+<Studio>Warner Bros.</Studio>
+<Genre>Adventure</Genre>
+<Actor1>Daniel Radcliffe</Actor1>
+<Actor2>Emma Watson</Actor2>
+<Actor3>Rupert Grint</Actor3>
+<Writer>Steven Kloves</Writer>
+<Director>Alfonso Cuaron</Director>
+<Year>2004</Year>
+<Origin>USA</Origin>
+<score src="Washington Post">40</score>
+<score src="Chicago Sun-Times">88</score>
+<score src="The New York Times">80</score>
+<score src="LA Weekly">90</score>
+<score src="Los Angeles Times">80</score>
+<score src="Rolling Stone">88</score>
+<score src="Wall Street Journal">90</score>
+<score src="Entertainment Weekly">83</score>
+<score src="Empire">60</score>
+<score src="Variety">70</score>
+<score src="Salon.com">100</score>
+<score src="The Onion (A.V. Club)">70</score>
+<score src="TV Guide">60</score>
+<score src="Slate">80</score>
+<Metascore>81</Metascore>
+<Worldwide_gross>789458727</Worldwide_gross>
+</movie>
+<movie>
+<Name>Harry Potter and the Sorcerer's Stone</Name>
+<Rating>PG</Rating>
+<Studio>Warner Bros.</Studio>
+<Genre>Fantasy</Genre>
+<Actor1>Daniel Radcliffe</Actor1>
+<Actor2>Rupert Grint</Actor2>
+<Actor3>Emma Watson</Actor3>
+<Writer>J.K. Rowling</Writer>
+<Director>Chris Columbus</Director>
+<Year>2002</Year>
+<Origin>UK / USA</Origin>
+<score src="Washington Post">50</score>
+<score src="Chicago Sun-Times">100</score>
+<score src="The New York Times">40</score>
+<score src="LA Weekly">40</score>
+<score src="Los Angeles Times">80</score>
+<score src="Rolling Stone">70</score>
+<score src="Wall Street Journal">60</score>
+<score src="Entertainment Weekly">75</score>
+<score src="Empire"></score>
+<score src="Variety">90</score>
+<score src="Salon.com">60</score>
+<score src="The Onion (A.V. Club)"></score>
+<score src="TV Guide">70</score>
+<score src="Slate">50</score>
+<Metascore>64</Metascore>
+<Worldwide_gross>968657891</Worldwide_gross>
+</movie>
+</movie_list>
